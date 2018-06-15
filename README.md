@@ -1,4 +1,4 @@
-<h2>something</h2>
+<h1>SHAPE - A gym multi-page website using PHP</h1>
 
 <p align="center">
   <img src="your_relative_path_here" width="350"/>
