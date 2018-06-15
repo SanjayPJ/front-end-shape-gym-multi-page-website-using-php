@@ -1,0 +1,11 @@
+.carousel{
+    font-weight: 300;
+}
+.home-nav{
+    color: #fff !important;
+    background-color: rgba(236, 65, 65, 0.9);
+    border-radius: 5px;
+}
+.navbar{
+  background-color: rgba(0, 0, 0, 0.6) !important;
+}

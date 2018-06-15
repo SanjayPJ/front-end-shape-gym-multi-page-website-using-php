@@ -1,0 +1,18 @@
+.navbar{
+    position: relative !important;
+    color: #1c1c1c !important;
+}
+.contact-nav{
+    color: #fff !important;
+    background-color: rgba(236, 65, 65, 0.9);
+    border-radius: 5px;
+}
+.form-control{
+    color: #fff !important;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-radius: 0px;
+    border-bottom: 2px solid #ec4141;
+}

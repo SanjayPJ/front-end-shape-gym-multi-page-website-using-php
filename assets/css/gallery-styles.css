@@ -1,0 +1,25 @@
+.navbar {
+    position: relative !important;
+    color: #1c1c1c !important;
+}
+
+.gallery-nav {
+    color: #fff !important;
+    background-color: rgba(236, 65, 65, 0.9);
+    border-radius: 5px;
+}
+
+.red-hover {
+    padding: 5px;
+}
+
+.red-hover:hover {
+    background-color: #ec4141;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.active{
+    background-color: #ec4141;
+    border-radius: 5px;
+}

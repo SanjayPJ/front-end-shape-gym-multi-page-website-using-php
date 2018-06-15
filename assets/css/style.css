@@ -1,0 +1,94 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+}
+b{
+    font-size: 1.6rem;
+}
+h1{
+    font-size: 3.2rem;
+    font-weight: 300;
+}
+h2{
+    font-size: 2.3rem;
+}
+.navbar{
+    position: absolute !important;
+    width: 100%;
+    z-index: 999;
+}
+.navbar-brand:hover{
+    color: #fff !important;   
+}
+.navbar-brand{
+    color: #ec4141 !important;   
+}
+.navbar-brand i{
+    color: #fff;
+}
+.btn-danger{
+    background-color: #ec4141;
+}
+.btn-danger:hover{
+    background-color: #d93c3c;
+}
+.red{
+    background-color: #ec4141;
+}
+.card{
+    color: #555;
+}
+.dark-grey{
+    background-color: #1c1c1c;
+}
+.opacity{
+    opacity: 0.7;
+}
+.header-icon{
+    font-size: 4rem;
+    margin-bottom: 10px;
+}
+.dark-grey i{
+   color: #ec4141;
+    line-height: 0px;
+}
+.dark-grey h4{
+    line-height: 0px;
+}
+.grey{
+    background-color: #272727;
+}
+.text-red{
+ color:   #ec4141; 
+}
+.black{
+    background-color: #000;
+}
+.box{
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    color: #fff;
+    position: relative;
+    transition: all 0.5s;
+    opacity: 0.7;
+}
+.box i{
+    position: absolute;   
+    top: 50%;
+    left: 48%;
+    transform: translate(-50%,-48%);
+}
+.box:hover{
+    border: 2px solid #fff;
+    position: relative;
+    opacity: 1;
+}
+
+h4{
+    padding-bottom: 10px;
+}
+.img-fluid{
+    border-radius: 5px;
+}

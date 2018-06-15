@@ -1,0 +1,16 @@
+.navbar{
+    position: relative !important;
+    color: #1c1c1c !important;
+}
+.price-nav{
+    color: #fff !important;
+    background-color: rgba(236, 65, 65, 0.9);
+    border-radius: 5px;
+}
+.card{
+    border-radius: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-left: 2px solid #ec4141;
+    border-bottom-right-radius: 20px;
+}

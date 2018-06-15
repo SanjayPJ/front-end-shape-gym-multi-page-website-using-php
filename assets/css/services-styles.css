@@ -1,0 +1,9 @@
+.navbar{
+    position: relative !important;
+    color: #1c1c1c !important;
+}
+.services-nav{
+    color: #fff !important;
+    background-color: rgba(236, 65, 65, 0.9);
+    border-radius: 5px;
+}
